@@ -1,6 +1,6 @@
 {
   "name": "gatsby-source-kibela",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Gatsby source plugin for Kibela.",
   "license": "MIT",
   "author": "shooontan",
