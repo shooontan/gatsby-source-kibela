@@ -1,0 +1,16 @@
+{
+  "extends": "@shooontan/tsconfig",
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "esnext",
+    "lib": [
+      "esnext",
+      "dom"
+    ],
+    "skipLibCheck": true
+  },
+  "exclude": [
+    "src/__tests__",
+    "dist"
+  ]
+}

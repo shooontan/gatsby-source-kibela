@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`createContentNode content node with id 1`] = `
+Array [
+  Array [
+    Object {
+      "children": Array [],
+      "id": "nodeId",
+      "internal": Object {
+        "content": "{\\"id\\":\\"uYarjeb7YL\\",\\"title\\":\\"hello\\"}",
+        "contentDigest": "955cc55ca070043c9e9847c96cd651f9",
+        "type": "KibelaNote",
+      },
+      "noteId": "uYarjeb7YL",
+      "parent": null,
+      "title": "hello",
+    },
+  ],
+]
+`;
+
+exports[`createContentNode create node 1`] = `
+Array [
+  Array [
+    Object {
+      "children": Array [],
+      "id": "nodeId",
+      "internal": Object {
+        "content": "{\\"title\\":\\"hello\\"}",
+        "contentDigest": "e90d9516ef7a6840faa8bc08e5b5cf0c",
+        "type": "KibelaNote",
+      },
+      "parent": null,
+      "title": "hello",
+    },
+  ],
+]
+`;
